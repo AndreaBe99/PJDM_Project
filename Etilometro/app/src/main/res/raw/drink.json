@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Alcolpop",
+        "gradi": "5",
+        "litri": "275",
+        "img": "drink_alcolpop"
+    },
+    {
+        "name": "Cocktail Leggero",
+        "gradi": "8",
+        "litri": "150",
+        "img": "drink_cocktail_leggero"
+    },
+    {
+        "name": "Cocktail Medio",
+        "gradi": "19",
+        "litri": "100",
+        "img": "drink_cocktail_medio"
+    },
+    {
+        "name": "Cocktail Forte",
+        "gradi": "28",
+        "litri": "70",
+        "img": "drink_cocktail_forte"
+    },
+    {
+        "name": "Vino da pasto",
+        "gradi": "13",
+        "litri": "125",
+        "img": "drink_vino_pasto"
+    },
+    {
+        "name": "Vino da dessert",
+        "gradi": "15",
+        "litri": "75",
+        "img": "drink_cocktail_dessert"
+    },
+    {
+        "name": "Vino liquoroso tipo Porto",
+        "gradi": "20",
+        "litri": "75",
+        "img": "drink_vino_liquoroso"
+    },
+    {
+        "name": "Birra chiara",
+        "gradi": "5",
+        "litri": "400",
+        "img": "drink_birra_leggera"
+    },
+    {
+        "name": "Birra doppio malto",
+        "gradi": "8",
+        "litri": "400",
+        "img": "drink_birra_doppiomalto"
+    },
+    {
+        "name": "Spumante dolce",
+        "gradi": "7",
+        "litri": "125",
+        "img": "drink_spumante_dolce"
+    },
+    {
+        "name": "Spumante secco",
+        "gradi": "11",
+        "litri": "125",
+        "img": "drink_spumante_secco"
+    },
+    {
+        "name": "Amaro o Liquore",
+        "gradi": "30",
+        "litri": "40",
+        "img": "drink_amaro_liquore"
+    },
+    {
+        "name": "Rum - Vodka",
+        "gradi": "40",
+        "litri": "40",
+        "img": "drink_rum_vodka"
+    },
+    {
+        "name": "Whisky/Grappa invecchiati",
+        "gradi": "60",
+        "litri": "40",
+        "img": "drink_wisky"
+    }
+]

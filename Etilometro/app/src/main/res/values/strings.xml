@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Etilometro</string>
+    <string name="title_home">Etilometro</string>
+    <string name="title_dashboard">Account</string>
+    <string name="title_notifications">Informazioni</string>
+
+
+    <string name="nome">Nome</string>
+    <string name="sesso">Sesso</string>
+    <string name="peso">Peso</string>
+    <string name="peso_duePunti">Peso:</string>
+    <string name="nome_duePunti">Nome:</string>
+    <string name="sesso_duePunti">Sesso:</string>
+
+    <string name="maschio">Maschio</string>
+    <string name="femmina">Femmina</string>
+
+    <string name="alcolemia">ALCOLEMIA:</string>
+    <string name="posizione">Posizione</string>
+    <string name="ricordamelo">Ricordamelo</string>
+    <string name="g_l">g/l</string>
+    <string name="prima_di_poter_guidare_dovrai_attendere_circa">Prima di poter guidare dovrai attendere circa:</string>
+    <string name="ore_e">ore e</string>
+    <string name="minuti">minuti.</string>
+    <string name="peso_attuale">Peso attuale:</string>
+    <string name="kg">Kg</string>
+    <string name="acquisizioni">Acquisizioni:</string>
+    <string name="utenti_registrati">Utenti registrati:</string>
+    <string name="inserisci_utenti">Inserisci utenti</string>
+    <string name="seleziona_utente">Seleziona Utente</string>
+    <string name="quando_hai_bevuto_rispetto_all_ultimo_pasto">Quando hai bevuto rispetto all\'ultimo pasto?</string>
+    <string name="durante">Durante</string>
+    <string name="un_ora_dopo">Un\'ora dopo</string>
+    <string name="dopo_due_ore_o_pi">Dopo due ore o più</string>
+    <string name="cosa_hai_bevuto">Cosa hai bevuto?</string>
+    <string name="data">Data:</string>
+    <string name="nome_bevanda">Nome Bevanda</string>
+    <string name="gradi">gradi</string>
+    <string name="litri">litri</string>
+
+    <string name="aggiungi">AGGIUNGI</string>
+    <string name="modifica">MODIFICA</string>
+    <string name="puoi_guidare">Puoi guidare!!</string>
+    <string name="title_activity_login" translatable="false">Sign in</string>
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Password</string>
+
+    <string name="lista_alcolici">Lista Alcolici:</string>
+    <string name="sei_gia_registrato">Sei gia Registrato?</string>
+    <string name="non_sei_ancora_registrato">Non sei ancora Registrato?</string>
+
+    <string name="servlet_Utente" translatable="false">http://10.0.2.2:8080/ServerEtilometro/UtenteServlet</string>
+    <string name="servlet_Account" translatable="false">http://10.0.2.2:8080/ServerEtilometro/AccountServlet</string>
+    <string name="servlet_Acquisizione" translatable="false">http://10.0.2.2:8080/ServerEtilometro/AcquisizioneServlet</string>
+
+    <string name="rimmerettere_alla_guida">Ora puoi guidare.</string>
+
+
+</resources>

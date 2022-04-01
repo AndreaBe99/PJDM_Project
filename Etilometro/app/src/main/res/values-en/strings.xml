@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Breathalyzer</string>
+    <string name="title_home">Breathalyzer</string>
+    <string name="title_dashboard">Account</string>
+    <string name="title_notifications">Information</string>
+    <string name="nome">Name</string>
+    <string name="sesso">Sex</string>
+    <string name="peso">Weight</string>
+    <string name="peso_duePunti">Weight:</string>
+    <string name="nome_duePunti">Name:</string>
+    <string name="sesso_duePunti">Sex:</string>
+    <string name="alcolemia">ALCOHOL:</string>
+    <string name="posizione">Position</string>
+    <string name="ricordamelo">Remind me</string>
+    <string name="g_l">g/l</string>
+    <string name="prima_di_poter_guidare_dovrai_attendere_circa">Before you can drive you will have to wait about:</string>
+    <string name="ore_e">hours and</string>
+    <string name="minuti">minutes.</string>
+    <string name="peso_attuale">Current weight:</string>
+    <string name="kg">Kg</string>
+    <string name="acquisizioni">Acquisitions:</string>
+    <string name="utenti_registrati">Registered users:</string>
+    <string name="inserisci_utenti">Enter users</string>
+    <string name="seleziona_utente">Select User</string>
+    <string name="quando_hai_bevuto_rispetto_all_ultimo_pasto">When did you drink from the last meal?</string>
+    <string name="durante">During</string>
+    <string name="un_ora_dopo">One hour later</string>
+    <string name="dopo_due_ore_o_pi">After two hours or more</string>
+    <string name="cosa_hai_bevuto">What did you drink?</string>
+    <string name="data">Date:</string>
+    <string name="nome_bevanda">Beverage name</string>
+    <string name="gradi">degrees</string>
+    <string name="litri">"liter "</string>
+    <string name="aggiungi">ADD</string>
+    <string name="modifica">MODIFICARE</string>
+    <string name="puoi_guidare">You can drive!!</string>
+    <string name="maschio">Male</string>
+    <string name="femmina">Female</string>
+    <string name="lista_alcolici">Drink List:</string>
+    <string name="sei_gia_registrato">Are you already registered?</string>
+    <string name="non_sei_ancora_registrato">Not registered yet?</string>
+    <string name="rimmerettere_alla_guida">Now you could drive.</string>
+</resources>

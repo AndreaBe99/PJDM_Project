@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.etilometro">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_STO" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/iconround"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/iconround"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".ui.SignupActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeActionBar"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".NetActivity"
+            android:theme="@style/AppThemeActionBar" />
+
+
+        <receiver
+            android:name=".AlarmReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name=".ui.SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme"
+            tools:ignore="LockedOrientationActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.LoginActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeActionBar"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".gestioneUtente.InfoUtenteActivity"
+            android:label="Utente"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeActionBar"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.DialogRisultatoActivity"
+            android:label="Esito del Test"
+            android:screenOrientation="portrait"
+            android:theme="@style/DialogTheme"
+            tools:ignore="LockedOrientationActivity" />
+        <activity android:name=".gestioneUtente.AggiungiUtenteActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
+    </application>
+
+</manifest>
